@@ -1,0 +1,36 @@
+.Speed_img,.Volume_img{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-size: cover;
+}
+
+.Speed{
+    float: left;
+}
+
+.Volume{
+    float: right;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+}
+
+.Note{
+    font-size: 15px;
+}
+
+.Play_button{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px ridge yellow;
+    border-radius: 20px;
+}
